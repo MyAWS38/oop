@@ -128,4 +128,6 @@ $controller->show();
 I get the result without changing other classes. Because the interface class handles the swapping issue.
 
 
-Merci pour votre lecture ! 
+Merci pour votre lecture ! un exemple plus avancé en Java avec Spring 
+
+https://tech.deepumohan.com/2013/01/when-to-use-interfaces-in-your.html
